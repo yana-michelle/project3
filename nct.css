@@ -8,13 +8,6 @@ body, html{
 	background-color:black;
 }
 
-.title{
-	font-family: "Colors Of Autumn";
-	text-align: center;
-	color: #0AFC4D;
-	text-shadow: 4px 3px 5px black;
-	background-image: url("assets/photos/nct logo.jpg");
-}
 
 .hero-image {
 	background-image: url("assets/photos/nct2020.jpg");
@@ -35,6 +28,20 @@ body, html{
 	color: #0AFC4D;
 	text-shadow: 4px 3px 5px black;
 }
+
+.title{
+	font-family: "Colors Of Autumn";
+	text-align: center;
+	position: relative;
+	color: #0AFC4D;
+	text-shadow: 4px 3px 5px black;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	text-decoration: underline;
+}
+
+
 
 header {
 	font-size: 50px;
